@@ -1,0 +1,33 @@
+let musketeers = ['Athos', 'Porthos', 'Aramis']
+for(i = 0; i < musketeers.length; i++){
+    console.log(musketeers[i])
+    musketeers.push('D\'Artagnan')
+}
+musketeers.forEach(musketeers => {
+    console.log(musketeers)
+    musketeers.pop()
+})
+
+for (musketeer of musketeers) {
+    console.log(musketeers)
+}
+
+const values = [3, 11, 7, 2, 9, 10]
+    let sum = 0
+
+    for(i = 0; i < values.length; i++){
+        sum += values[i]
+    }
+
+let getMax = Math.max(values)
+
+console.log(getMax)
+
+let word = prompt('enter a word')
+let missedWords = []
+if (word !== 'stop'){
+    missedWords = missedWords.push(word)
+} else {
+   let word = prompt('you got the right word')
+}
+console.log (missedWords)
