@@ -3964,10 +3964,10 @@ input, select, textarea {
 /* Landing */
 
 	body.landing #page-wrapper {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/Users/gian/Desktop/Portfolio/html5up-spectral/images/06212f73357d402883d3c58df97f747d.webp");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/06212f73357d402883d3c58df97f747d.webp");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/Users/gian/Desktop/Portfolio/html5up-spectral/images/06212f73357d402883d3c58df97f747d.webp");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/Users/gian/Desktop/Portfolio/html5up-spectral/images/06212f73357d402883d3c58df97f747d.webp");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/Users/gian/Desktop/Portfolio/html5up-spectral/images/06212f73357d402883d3c58df97f747d.webp");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/06212f73357d402883d3c58df97f747d.webp");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/06212f73357d402883d3c58df97f747d.webp");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
